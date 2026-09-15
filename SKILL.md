@@ -1,6 +1,6 @@
 ---
-name: quiz-from-mistakes
-slug: quiz-from-mistakes
+name: ym-quiz-from-mistakes
+slug: ym-quiz-from-mistakes
 display_name: 错题变式练习
 display_name_en: Quiz From Mistakes
 displayName: 错题变式练习
@@ -21,7 +21,7 @@ trigger:
 agent_created: true
 ---
 
-# 错题变式练习 (quiz-from-mistakes)
+# 错题变式练习 (ym-quiz-from-mistakes)
 
 替用户把一道错题变成「诊断错因 → 分层提示 → 变式巩固」的闭环，先讲清为什么错，而不是直接把答案甩过去。核心价值是「先诊断再练习」，让同一类错误下次不再犯，而不是给个答案就完事。
 
